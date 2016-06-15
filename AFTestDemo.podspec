@@ -10,4 +10,3 @@ s.platform     = :ios, "6.0"
 s.source       = { :git => "https://github.com/nfl404/AFTestDemo.git", :tag => "1.0.1" }
 s.source_files  = "AFTestDemo", "*.{h,m}"
 s.requires_arc = true
-# s.dependency "Masonry", "~> 0.6"
