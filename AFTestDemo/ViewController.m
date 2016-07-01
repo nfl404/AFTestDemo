@@ -18,6 +18,11 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"1.1.2");
+    NSLog(@"1.1.2+");
+    [self 保存数据];
+}
+- (void)保存数据 {
+    NSLog(@"sssss");
 }
 
 - (void)didReceiveMemoryWarning {
